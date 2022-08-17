@@ -19,3 +19,4 @@ for i in range(1, 51):
             list_of_req_book.append(xx)
 
 for each in list_of_req_book:
+    print(each)
